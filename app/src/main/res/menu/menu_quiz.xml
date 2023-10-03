@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_reset_score"
+        android:title="@string/action_reset_score"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_chat"
+        android:icon="@drawable/ic_chat"
+        android:orderInCategory="100"
+        android:title="@string/action_chat"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/sign_out_menu"
+        android:title="@string/sign_out"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/account"
+        android:title="Account"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/change_location"
+        android:orderInCategory="100"
+        android:title="Change Location"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_subscribe"
+        android:orderInCategory="100"
+        android:title="Subscription"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/visit_site"
+        android:orderInCategory="100"
+        android:title="Visit Site"
+        app:showAsAction="never" />
+</menu>

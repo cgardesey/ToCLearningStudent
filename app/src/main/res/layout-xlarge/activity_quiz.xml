@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.prepeez.toclearningstudent.activity.QuizActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+        <LinearLayout
+            android:id="@+id/add"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TableLayout
+                android:id="@+id/tableLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="32dp"
+                android:layout_marginRight="32dp"
+                android:stretchColumns="1">
+
+                <TextView
+                    android:id="@+id/questionid"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:textStyle="italic" />
+
+                <ImageView
+                    android:id="@+id/question"
+                    android:layout_width="match_parent"
+                    android:layout_height="464dp"
+                    android:layout_marginTop="8dp"
+                    android:src="@drawable/m00"
+                    tools:text="Which thing is alive?" />
+
+                <RadioGroup
+                    android:id="@+id/radio_group"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal">
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.25"
+                        android:checked="false"
+                        android:onClick="rbclick"
+                        android:text="A  " />
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.25"
+                        android:checked="false"
+                        android:onClick="rbclick"
+                        android:text="B  " />
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.25"
+                        android:checked="false"
+                        android:onClick="rbclick"
+                        android:text="C  " />
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.25"
+                        android:checked="false"
+                        android:onClick="rbclick"
+                        android:text="D  " />
+
+                </RadioGroup>
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_marginBottom="16dp"
+                    android:layout_marginTop="16dp">
+
+                    <LinearLayout
+                        android:id="@+id/prev"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_alignParentLeft="true">
+                        <ImageView
+                            android:layout_height="40dp"
+                            android:layout_width="40dp"
+                            android:src="@mipmap/ic_prev" />
+                        <TextView
+                            android:paddingLeft="8dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:text="Previous"
+                            android:gravity="center_vertical"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:id="@+id/next"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_alignParentRight="true">
+                        <TextView
+                            android:paddingRight="8dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:text="Next"
+                            android:gravity="center_vertical"/>
+                        <ImageView
+                            android:layout_height="40dp"
+                            android:layout_width="40dp"
+                            android:src="@mipmap/ic_next" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/ans"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="8dp"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:text="Click to See explanation to answer"
+                    android:textAlignment="center" />
+            </TableLayout>
+
+            <LinearLayout
+                android:id="@+id/player_holder"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+                <com.afollestad.easyvideoplayer.EasyVideoPlayer
+                    android:id="@+id/player"
+                    android:layout_width="match_parent"
+                    android:layout_height="600dp" />
+                <TextView
+                    android:id="@+id/fullscreen"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="32dp"
+                    android:layout_marginLeft="32dp"
+                    android:paddingTop="8dp"
+                    android:text="Click to go full screen"
+                    android:textAlignment="center" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

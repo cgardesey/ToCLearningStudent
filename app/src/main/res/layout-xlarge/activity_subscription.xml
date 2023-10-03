@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingRight="32dp"
+    android:paddingLeft="32dp"
+    android:background="@color/colorPrimary"
+    tools:context="com.prepeez.toclearningstudent.activity.OldSubscriptionActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="Activating the 2CLearning application allows you to access live, recorded and past examination questions. Activating your subscription automatically re-subscribes you anytime your activation validity period expires."
+                android:textColor="@color/white" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:text="If you already have an activation code, click Enter Code"
+                android:textColor="@color/white" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="32dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="128dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="16dp"
+                        android:background="@drawable/roundededittext"
+                        android:minHeight="50dp"
+                        android:textAlignment="center"
+                        android:padding="8dp"
+                        android:text="1 day-GHC2.00" />
+
+                    <TextView
+                        android:layout_width="128dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="16dp"
+                        android:background="@drawable/roundededittext"
+                        android:minHeight="50dp"
+                        android:textAlignment="center"
+                        android:padding="8dp"
+                        android:text="1 month-GHC60.00" />
+
+                    <TextView
+                        android:layout_width="128dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/roundededittext"
+                        android:minHeight="50dp"
+                        android:textAlignment="center"
+                        android:padding="8dp"
+                        android:text="Enter" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="32dp"
+                    android:layout_marginTop="32dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="128dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="16dp"
+                        android:background="@drawable/roundededittext"
+                        android:minHeight="50dp"
+                        android:textAlignment="center"
+                        android:padding="8dp"
+                        android:text="1 week-GHC12.00" />
+
+                    <TextView
+                        android:layout_width="128dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="16dp"
+                        android:background="@drawable/roundededittext"
+                        android:minHeight="50dp"
+                        android:textAlignment="center"
+                        android:padding="8dp"
+                        android:text="1 year-GHC100.00" />
+
+                    <TextView
+                        android:layout_width="128dp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/roundededittext"
+                        android:minHeight="50dp"
+                        android:textAlignment="center"
+                        android:padding="8dp"
+                        android:text="Cancel" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:text="Suscribe via"
+                android:textAlignment="center"
+                android:textColor="@color/white" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="32dp"
+                android:layout_marginTop="32dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="64dp"
+                    android:src="@mipmap/ic_mtn" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="64dp"
+                    android:src="@mipmap/ic_vodafone" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="64dp"
+                    android:src="@mipmap/ic_tigo" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/ic_master_card" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

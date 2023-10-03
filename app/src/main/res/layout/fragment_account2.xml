@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:text="2 of 4"
+        android:textAlignment="center"
+        android:textStyle="italic" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@drawable/bg_gradient">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="0.7"
+                    android:gravity="center"
+                    android:text=" Personal Information (2)"
+                    android:textColor="#000"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/emailaddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="16dp"
+                android:layout_marginLeft="32dp"
+                android:layout_marginRight="32dp"
+                android:layout_marginTop="16dp"
+                android:layout_weight="0.7"
+                android:background="@drawable/roundededittext"
+                android:gravity="center"
+                android:hint="Email Address*"
+                android:inputType="textEmailAddress|textMultiLine"
+                android:minHeight="40dp"
+                android:padding="4dp" />
+
+            <LinearLayout
+                android:layout_marginLeft="32dp"
+                android:layout_marginRight="32dp"
+                android:id="@+id/clickToAdd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:padding="16dp">
+
+                <com.makeramen.roundedimageview.RoundedImageView
+                    android:id="@+id/profile_imgview"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_above="@+id/item_gallery"
+                    android:layout_gravity="center"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/add"
+                    app:riv_border_color="@android:color/darker_gray"
+                    app:riv_border_width="0.5dip"
+                    app:riv_corner_radius="30dip"
+                    app:riv_oval="true" />
+
+                <TextView
+                    android:id="@+id/clicktoaddTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="0dp"
+                    android:text="Click to Add Phone contact*"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/cardView"
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:layout_marginLeft="32dp"
+                android:layout_marginRight="32dp"
+                android:layout_marginBottom="32dp"
+                app:cardCornerRadius="12dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="16dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginRight="16dp"
+                        android:layout_marginTop="16dp"
+                        android:orientation="horizontal">
+
+                        <Spinner
+                            android:id="@+id/spinner2"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_toRightOf="@+id/tv_employment_status"
+                            android:layout_weight="0.4"
+                            android:entries="@array/phone_arrays" />
+
+                        <net.rimoto.intlphoneinput.IntlPhoneInput
+                            android:id="@+id/phonenumber"
+                            android:layout_width="0dp"
+                            android:layout_height="40dp"
+                            android:layout_weight="0.6"
+                            android:gravity="center"
+                            app:textColor="#000000"
+                            app:textSize="15sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="32dp"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal">
+
+                        <Button
+                            android:id="@+id/remove"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="8dp"
+                            android:layout_weight="0.5"
+                            android:background="@drawable/rounded_button"
+                            android:padding="4dp"
+                            android:text="Remove"
+                            android:textColor="@color/white" />
+
+                        <Button
+                            android:id="@+id/add"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="8dp"
+                            android:layout_weight="0.5"
+                            android:background="@drawable/rounded_button"
+                            android:padding="4dp"
+                            android:text="Add"
+                            android:textColor="@color/white" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:id="@+id/recycle_location"
+                android:layout_width="match_parent"
+                android:layout_marginBottom="16dp"
+                android:layout_height="wrap_content" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="32dp"
+                android:layout_marginRight="32dp"
+                android:layout_marginTop="16dp">
+
+                <ImageView
+                    android:id="@+id/dateselect"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="16dp"
+
+                    android:src="@mipmap/ic_calender" />
+
+                <EditText
+                    android:id="@+id/dateofbirth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="16dp"
+                    android:layout_toLeftOf="@id/dateselect"
+                    android:layout_toStartOf="@id/dateselect"
+                    android:background="@null"
+                    android:enabled="false"
+                    android:gravity="center"
+                    android:layout_centerVertical="true"
+                    android:hint="Date of Birth*"
+                    android:padding="4dp"
+                    android:textColor="#000000" />
+
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.3dp"
+                android:layout_marginLeft="60dp"
+                android:layout_marginRight="60dp"
+                android:layout_marginTop="16dp"
+                android:background="@android:color/darker_gray" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="32dp"
+                android:layout_marginRight="32dp"
+                android:layout_marginTop="16dp">
+
+                <ImageView
+                    android:id="@+id/locPicker"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="16dp"
+                    android:src="@mipmap/ic_google_map" />
+
+                <EditText
+                    android:id="@+id/homeaddress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_toLeftOf="@id/locPicker"
+                    android:layout_toStartOf="@id/locPicker"
+                    android:background="@null"
+                    android:gravity="center"
+                    android:layout_centerVertical="true"
+                    android:hint="Location*"
+                    android:padding="4dp"
+                    android:textColor="#000000"/>
+
+            </RelativeLayout>
+
+
+            <LinearLayout
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="32dp"
+                    android:layout_marginRight="32dp"
+                    android:layout_marginTop="16dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.5"
+                        android:text="Marital Status* :"
+                        android:textStyle="bold" />
+
+                    <Spinner
+                        android:id="@+id/spinner3"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.5"
+                        android:entries="@array/marital_arrays"
+                        android:gravity="end"
+                        android:textAlignment="textEnd" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.3dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="60dp"
+                    android:layout_marginTop="32dp"
+                    android:background="@android:color/darker_gray" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginLeft="32dp"
+                android:layout_marginRight="32dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginBottom="48dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="16dp"
+                    android:layout_height="16dp"
+                    android:src="@mipmap/ic_back" />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:hint="Swipe to previous page"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>
+
+

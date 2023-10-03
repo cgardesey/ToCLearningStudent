@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ChooseProviderActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Please select your location"
+        android:textAlignment="center" />
+
+    <RadioGroup
+        android:id="@+id/radioLocationGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp">
+
+        <RadioButton
+            android:id="@+id/ghana"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/flag_gh"
+            android:drawablePadding="8dp"
+            android:text="Ghana" />
+
+        <RadioButton
+            android:id="@+id/liberia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/flag_lr"
+            android:drawablePadding="8dp"
+            android:text="Liberia" />
+
+        <RadioButton
+            android:id="@+id/nigeria"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/flag_ng"
+            android:drawablePadding="8dp"
+            android:text="Nigeria" />
+
+        <RadioButton
+            android:id="@+id/zambia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/flag_zm"
+            android:drawablePadding="8dp"
+            android:text="Zambia" />
+
+        <RadioButton
+            android:id="@+id/europe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/flag_eu"
+            android:drawablePadding="8dp"
+            android:text="Europe" />
+
+        <RadioButton
+            android:id="@+id/usa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/flag_us"
+            android:drawablePadding="8dp"
+            android:text="USA" />
+
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/radioProvider"
+        android:layout_margin="16dp"
+        android:gravity="bottom"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/back"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="4dp"
+            android:layout_weight="0.5"
+            android:background="@drawable/rounded_edge_button"
+            android:text="Back"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/next"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_weight="0.5"
+            android:background="@drawable/rounded_edge_button"
+            android:text="Next"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+</RelativeLayout>

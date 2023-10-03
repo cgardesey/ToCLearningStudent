@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimary"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.prepeez.toclearningstudent.activity.LevelActivity">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <!--<TextView-->
+        <!--android:id="@+id/editTextSearch"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Welcome to 2CLearning Student"-->
+        <!--android:textColor="@color/white"-->
+        <!--android:layout_marginStart="8dp"-->
+        <!--android:layout_marginEnd="8dp"-->
+        <!--android:layout_marginTop="6dp"-->
+        <!--android:layout_marginBottom="6dp"-->
+        <!--android:textStyle="bold"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_marginLeft="8dp"-->
+        <!--android:layout_marginRight="8dp" />-->
+    <com.prepeez.toclearningstudent.other.ViewPagerCarouselView
+        android:id="@+id/carousel_view"
+        android:layout_width="match_parent"
+        android:focusableInTouchMode="true"
+        android:layout_height="200dp">
+
+    </com.prepeez.toclearningstudent.other.ViewPagerCarouselView>
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            tools:layout_constraintLeft_creator="1"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintVertical_bias="1.0">
+
+        </android.support.v7.widget.RecyclerView>
+        <ExpandableListView
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:indicatorLeft="?android:attr/expandableListPreferredItemIndicatorLeft"
+            android:divider="@android:color/darker_gray"
+            android:dividerHeight="0.5dp" />
+
+
+
+</LinearLayout>
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

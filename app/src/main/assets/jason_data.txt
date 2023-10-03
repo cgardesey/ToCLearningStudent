@@ -1,0 +1,3419 @@
+{
+   "Undergraduate Level": 
+   {
+      "KNUST": 
+      {
+         "College of Engineering": 
+         {
+            "Computer Engineering": 
+            {
+               "Year 1": 
+               {
+                  "Semester 1": 
+                  {
+                     "CREDIT HOURS": 
+                     {
+                        "min": 6,
+                        "max": 9
+                     },
+                     "COMPULSORY COURSES": true,
+                     "(CLASS) Software Engineering 1": 
+                     {
+                        "NUMBER OF CREDIT HOURS": 3,
+                        "Past Questions": 
+                        {
+                           "2006": 
+                           {
+                              "2006": true
+                           },
+                           "2007": 
+                           {
+                              "2007": true
+                           },
+                           "2008": 
+                           {
+                              "2008": true
+                           },
+                           "2009": 
+                           {
+                              "2009": true
+                           },
+                           "2010": 
+                           {
+                              "2010": true
+                           },
+                           "2011": 
+                           {
+                              "2011": true
+                           },
+                           "2012": 
+                           {
+                              "2012": true
+                           },
+                           "2013": 
+                           {
+                              "2013": true
+                           },
+                           "2014": 
+                           {
+                              "2014": true
+                           },
+                           "2015": 
+                           {
+                              "2015": true
+                           },
+                           "2016": 
+                           {
+                              "2016": true
+                           }
+                        },
+                        "C++ Programing": 
+                        {
+                           "Live Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           },
+                           "Recorded Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           }
+                        }
+                     },
+                     "(CLASS) Basic Electronics": 
+                     {
+                        "NUMBER OF CREDIT HOURS": 3,
+                        "Past Questions": 
+                        {
+                           "2006": 
+                           {
+                              "2006": true
+                           },
+                           "2007": 
+                           {
+                              "2007": true
+                           },
+                           "2008": 
+                           {
+                              "2008": true
+                           },
+                           "2009": 
+                           {
+                              "2009": true
+                           },
+                           "2010": 
+                           {
+                              "2010": true
+                           },
+                           "2011": 
+                           {
+                              "2011": true
+                           },
+                           "2012": 
+                           {
+                              "2012": true
+                           },
+                           "2013": 
+                           {
+                              "2013": true
+                           },
+                           "2014": 
+                           {
+                              "2014": true
+                           },
+                           "2015": 
+                           {
+                              "2015": true
+                           },
+                           "2016": 
+                           {
+                              "2016": true
+                           }
+                        },
+                        "C++ Programing": 
+                        {
+                           "Live Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           },
+                           "Recorded Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           }
+                        }
+                     },
+                     "OPTIONAL COURSES": true,
+                     "(CLASS) Introduction to IT": 
+                     {
+                        "NUMBER OF CREDIT HOURS": 3,
+                        "Past Questions": 
+                        {
+                           "2006": 
+                           {
+                              "2006": true
+                           },
+                           "2007": 
+                           {
+                              "2007": true
+                           },
+                           "2008": 
+                           {
+                              "2008": true
+                           },
+                           "2009": 
+                           {
+                              "2009": true
+                           },
+                           "2010": 
+                           {
+                              "2010": true
+                           },
+                           "2011": 
+                           {
+                              "2011": true
+                           },
+                           "2012": 
+                           {
+                              "2012": true
+                           },
+                           "2013": 
+                           {
+                              "2013": true
+                           },
+                           "2014": 
+                           {
+                              "2014": true
+                           },
+                           "2015": 
+                           {
+                              "2015": true
+                           },
+                           "2016": 
+                           {
+                              "2016": true
+                           }
+                        },
+                        "C++ Programing": 
+                        {
+                           "Live Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           },
+                           "Recorded Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           }
+                        }
+                     },
+                     "(CLASS) Data Structures and Algorithms": 
+                     {
+                        "NUMBER OF CREDIT HOURS": 3,
+                        "Past Questions": 
+                        {
+                           "2006": 
+                           {
+                              "2006": true
+                           },
+                           "2007": 
+                           {
+                              "2007": true
+                           },
+                           "2008": 
+                           {
+                              "2008": true
+                           },
+                           "2009": 
+                           {
+                              "2009": true
+                           },
+                           "2010": 
+                           {
+                              "2010": true
+                           },
+                           "2011": 
+                           {
+                              "2011": true
+                           },
+                           "2012": 
+                           {
+                              "2012": true
+                           },
+                           "2013": 
+                           {
+                              "2013": true
+                           },
+                           "2014": 
+                           {
+                              "2014": true
+                           },
+                           "2015": 
+                           {
+                              "2015": true
+                           },
+                           "2016": 
+                           {
+                              "2016": true
+                           }
+                        },
+                        "C++ Programing": 
+                        {
+                           "Live Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           },
+                           "Recorded Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           }
+                        }
+                     }
+                  },
+                  "Semester 2": 
+                  {
+                     "CREDIT HOURS": 
+                     {
+                        "min": 19,
+                        "max": 21
+                     },
+                     "(CLASS) Software Engineering 2": 
+                     {
+                        "NUMBER OF CREDIT HOURS": 3,
+                        "Past Questions": 
+                        {
+                           "2006": 
+                           {
+                              "2006": true
+                           },
+                           "2007": 
+                           {
+                              "2007": true
+                           },
+                           "2008": 
+                           {
+                              "2008": true
+                           },
+                           "2009": 
+                           {
+                              "2009": true
+                           },
+                           "2010": 
+                           {
+                              "2010": true
+                           },
+                           "2011": 
+                           {
+                              "2011": true
+                           },
+                           "2012": 
+                           {
+                              "2012": true
+                           },
+                           "2013": 
+                           {
+                              "2013": true
+                           },
+                           "2014": 
+                           {
+                              "2014": true
+                           },
+                           "2015": 
+                           {
+                              "2015": true
+                           },
+                           "2016": 
+                           {
+                              "2016": true
+                           }
+                        },
+                        "C++ Programing": 
+                        {
+                           "Live Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           },
+                           "Recorded Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           }
+                        }
+                     }
+                  }
+               }
+            }
+         }
+      },
+      "UCC": 
+      {
+         "College of Engineering": 
+         {
+            "Computer Engineering": 
+            {
+               "Year 1": 
+               {
+                  "Semester 1": 
+                  {
+                     "CREDIT HOURS": 
+                     {
+                        "min": 6,
+                        "max": 9
+                     },
+                     "COMPULSORY COURSES": true,
+                     "(CLASS) Software Engineering 1": 
+                     {
+                        "NUMBER OF CREDIT HOURS": 3,
+                        "Past Questions": 
+                        {
+                           "2006": 
+                           {
+                              "2006": true
+                           },
+                           "2007": 
+                           {
+                              "2007": true
+                           },
+                           "2008": 
+                           {
+                              "2008": true
+                           },
+                           "2009": 
+                           {
+                              "2009": true
+                           },
+                           "2010": 
+                           {
+                              "2010": true
+                           },
+                           "2011": 
+                           {
+                              "2011": true
+                           },
+                           "2012": 
+                           {
+                              "2012": true
+                           },
+                           "2013": 
+                           {
+                              "2013": true
+                           },
+                           "2014": 
+                           {
+                              "2014": true
+                           },
+                           "2015": 
+                           {
+                              "2015": true
+                           },
+                           "2016": 
+                           {
+                              "2016": true
+                           }
+                        },
+                        "C++ Programing": 
+                        {
+                           "Live Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           },
+                           "Recorded Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           }
+                        }
+                     },
+                     "(CLASS) Basic Electronics": 
+                     {
+                        "NUMBER OF CREDIT HOURS": 3,
+                        "Past Questions": 
+                        {
+                           "2006": 
+                           {
+                              "2006": true
+                           },
+                           "2007": 
+                           {
+                              "2007": true
+                           },
+                           "2008": 
+                           {
+                              "2008": true
+                           },
+                           "2009": 
+                           {
+                              "2009": true
+                           },
+                           "2010": 
+                           {
+                              "2010": true
+                           },
+                           "2011": 
+                           {
+                              "2011": true
+                           },
+                           "2012": 
+                           {
+                              "2012": true
+                           },
+                           "2013": 
+                           {
+                              "2013": true
+                           },
+                           "2014": 
+                           {
+                              "2014": true
+                           },
+                           "2015": 
+                           {
+                              "2015": true
+                           },
+                           "2016": 
+                           {
+                              "2016": true
+                           }
+                        },
+                        "C++ Programing": 
+                        {
+                           "Live Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           },
+                           "Recorded Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           }
+                        }
+                     },
+                     "OPTIONAL COURSES": true,
+                     "(CLASS) Introduction to IT": 
+                     {
+                        "NUMBER OF CREDIT HOURS": 3,
+                        "Past Questions": 
+                        {
+                           "2006": 
+                           {
+                              "2006": true
+                           },
+                           "2007": 
+                           {
+                              "2007": true
+                           },
+                           "2008": 
+                           {
+                              "2008": true
+                           },
+                           "2009": 
+                           {
+                              "2009": true
+                           },
+                           "2010": 
+                           {
+                              "2010": true
+                           },
+                           "2011": 
+                           {
+                              "2011": true
+                           },
+                           "2012": 
+                           {
+                              "2012": true
+                           },
+                           "2013": 
+                           {
+                              "2013": true
+                           },
+                           "2014": 
+                           {
+                              "2014": true
+                           },
+                           "2015": 
+                           {
+                              "2015": true
+                           },
+                           "2016": 
+                           {
+                              "2016": true
+                           }
+                        },
+                        "C++ Programing": 
+                        {
+                           "Live Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           },
+                           "Recorded Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           }
+                        }
+                     },
+                     "(CLASS) Data Structures and Algorithms": 
+                     {
+                        "NUMBER OF CREDIT HOURS": 3,
+                        "Past Questions": 
+                        {
+                           "2006": 
+                           {
+                              "2006": true
+                           },
+                           "2007": 
+                           {
+                              "2007": true
+                           },
+                           "2008": 
+                           {
+                              "2008": true
+                           },
+                           "2009": 
+                           {
+                              "2009": true
+                           },
+                           "2010": 
+                           {
+                              "2010": true
+                           },
+                           "2011": 
+                           {
+                              "2011": true
+                           },
+                           "2012": 
+                           {
+                              "2012": true
+                           },
+                           "2013": 
+                           {
+                              "2013": true
+                           },
+                           "2014": 
+                           {
+                              "2014": true
+                           },
+                           "2015": 
+                           {
+                              "2015": true
+                           },
+                           "2016": 
+                           {
+                              "2016": true
+                           }
+                        },
+                        "C++ Programing": 
+                        {
+                           "Live Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           },
+                           "Recorded Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           }
+                        }
+                     }
+                  },
+                  "Semester 2": 
+                  {
+                     "CREDIT HOURS": 
+                     {
+                        "min": 19,
+                        "max": 21
+                     },
+                     "(CLASS) Software Engineering 2": 
+                     {
+                        "NUMBER OF CREDIT HOURS": 3,
+                        "Past Questions": 
+                        {
+                           "2006": 
+                           {
+                              "2006": true
+                           },
+                           "2007": 
+                           {
+                              "2007": true
+                           },
+                           "2008": 
+                           {
+                              "2008": true
+                           },
+                           "2009": 
+                           {
+                              "2009": true
+                           },
+                           "2010": 
+                           {
+                              "2010": true
+                           },
+                           "2011": 
+                           {
+                              "2011": true
+                           },
+                           "2012": 
+                           {
+                              "2012": true
+                           },
+                           "2013": 
+                           {
+                              "2013": true
+                           },
+                           "2014": 
+                           {
+                              "2014": true
+                           },
+                           "2015": 
+                           {
+                              "2015": true
+                           },
+                           "2016": 
+                           {
+                              "2016": true
+                           }
+                        },
+                        "C++ Programing": 
+                        {
+                           "Live Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           },
+                           "Recorded Lecture": 
+                           {
+                              "Lecture 1": "Data Types",
+                              "Lecture 2": "Conditions",
+                              "Lecture 3": "Loops"
+                           }
+                        }
+                     }
+                  }
+               }
+            }
+         }
+      }
+   },
+   "Secondary Level": 
+   {
+      "PRESEC - Legon": 
+      {
+         "Science": 
+         {
+            "Elective Subjects": 
+            {
+               "(CLASS) Elective Mathematics": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Physics": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Motion",
+                     "Lecture 2": "Scalars and Vectors",
+                     "Lecture 3": "Energy"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Motion",
+                     "Lecture 2": "Scalars and Vectors",
+                     "Lecture 3": "Energy"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Chemistry": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Structure of the Atom",
+                     "Lecture 2": "Periodic Chemistry",
+                     "Lecture 3": "Bonding"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Structure of the Atom",
+                     "Lecture 2": "Periodic Chemistry",
+                     "Lecture 3": "Bonding"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Biology": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Classification",
+                     "Lecture 2": "Organization of life",
+                     "Lecture 3": "Cell as a living unit"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Classification",
+                     "Lecture 2": "Organization of life",
+                     "Lecture 3": "Cell as a living unit"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               }
+            },
+            "Core Subjects": 
+            {
+               "(CLASS) Core Mathematics": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) English": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Summary",
+                     "Lecture 2": "Comprehension",
+                     "Lecture 3": "Lexis and structure"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Summary",
+                     "Lecture 2": "Comprehension",
+                     "Lecture 3": "Lexis and structure"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Integrated Science": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Measurement",
+                     "Lecture 2": "Matter",
+                     "Lecture 3": "Cycles"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Measurement",
+                     "Lecture 2": "Matter",
+                     "Lecture 3": "Cycles"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               }
+            }
+         },
+         "Business": 
+         {
+            "Elective Subjects": 
+            {
+               "(CLASS) Economics": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Definition and Scope of Economics",
+                     "Lecture 2": "Factors of Production",
+                     "Lecture 3": "Types and Basic Features of Economic Systems"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Definition and Scope of Economics",
+                     "Lecture 2": "Factors of Production",
+                     "Lecture 3": "Types and Basic Features of Economic Systems"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Financial Accounting": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Introduction to financial accounting ",
+                     "Lecture 2": "The accounting equation and double entry principles",
+                     "Lecture 3": "Accounting concepts"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Introduction to financial accounting ",
+                     "Lecture 2": "The accounting equation and double entry principles",
+                     "Lecture 3": "Accounting concepts"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Cost Accounting": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Introduction to Cost Accounting",
+                     "Lecture 2": "Characteristics of a Good Costing System",
+                     "Lecture 3": "Cost Classification and Types of Cost"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Introduction to Cost Accounting",
+                     "Lecture 2": "Characteristics of a Good Costing System",
+                     "Lecture 3": "Cost Classification and Types of Cost"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               }
+            },
+            "Core Subjects": 
+            {
+               "(CLASS) Core Mathematics": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) English": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Summary",
+                     "Lecture 2": "Comprehension",
+                     "Lecture 3": "Lexis and structure"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Summary",
+                     "Lecture 2": "Comprehension",
+                     "Lecture 3": "Lexis and structure"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Integrated Science": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Measurement",
+                     "Lecture 2": "Matter",
+                     "Lecture 3": "Cycles"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Measurement",
+                     "Lecture 2": "Matter",
+                     "Lecture 3": "Cycles"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               }
+            }
+         },
+         "General Arts": 
+         {
+            "Elective Subjects": 
+            {
+               "(CLASS) Economics": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Definition and Scope of Economics",
+                     "Lecture 2": "Factors of Production",
+                     "Lecture 3": "Types and Basic Features of Economic Systems"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Definition and Scope of Economics",
+                     "Lecture 2": "Factors of Production",
+                     "Lecture 3": "Types and Basic Features of Economic Systems"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Government": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Meaning and Scope of Government",
+                     "Lecture 2": "Basic Concepts and Principles of Government",
+                     "Lecture 3": "Constitutions"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Meaning and Scope of Government",
+                     "Lecture 2": "Basic Concepts and Principles of Government",
+                     "Lecture 3": "Constitutions"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Literature In English": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "African Prose",
+                     "Lecture 2": "Non-African Prose",
+                     "Lecture 3": "African Drama"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "African Prose",
+                     "Lecture 2": "Non-African Prose",
+                     "Lecture 3": "African Drama"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               }
+            },
+            "Core Subjects": 
+            {
+               "(CLASS) Core Mathematics": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) English": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Summary",
+                     "Lecture 2": "Comprehension",
+                     "Lecture 3": "Lexis and structure"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Summary",
+                     "Lecture 2": "Comprehension",
+                     "Lecture 3": "Lexis and structure"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Integrated Science": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Measurement",
+                     "Lecture 2": "Matter",
+                     "Lecture 3": "Cycles"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Measurement",
+                     "Lecture 2": "Matter",
+                     "Lecture 3": "Cycles"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               }
+            }
+         }
+      },
+      "OWASS": 
+      {
+         "Science": 
+         {
+            "Elective Subjects": 
+            {
+               "(CLASS) Elective Mathematics": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Physics": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Motion",
+                     "Lecture 2": "Scalars and Vectors",
+                     "Lecture 3": "Energy"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Motion",
+                     "Lecture 2": "Scalars and Vectors",
+                     "Lecture 3": "Energy"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Chemistry": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Structure of the Atom",
+                     "Lecture 2": "Periodic Chemistry",
+                     "Lecture 3": "Bonding"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Structure of the Atom",
+                     "Lecture 2": "Periodic Chemistry",
+                     "Lecture 3": "Bonding"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Biology": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Classification",
+                     "Lecture 2": "Organization of life",
+                     "Lecture 3": "Cell as a living unit"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Classification",
+                     "Lecture 2": "Organization of life",
+                     "Lecture 3": "Cell as a living unit"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               }
+            },
+            "Core Subjects": 
+            {
+               "(CLASS) Core Mathematics": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) English": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Summary",
+                     "Lecture 2": "Comprehension",
+                     "Lecture 3": "Lexis and structure"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Summary",
+                     "Lecture 2": "Comprehension",
+                     "Lecture 3": "Lexis and structure"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Integrated Science": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Measurement",
+                     "Lecture 2": "Matter",
+                     "Lecture 3": "Cycles"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Measurement",
+                     "Lecture 2": "Matter",
+                     "Lecture 3": "Cycles"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               }
+            }
+         },
+         "Business": 
+         {
+            "Elective Subjects": 
+            {
+               "(CLASS) Economics": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Definition and Scope of Economics",
+                     "Lecture 2": "Factors of Production",
+                     "Lecture 3": "Types and Basic Features of Economic Systems"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Definition and Scope of Economics",
+                     "Lecture 2": "Factors of Production",
+                     "Lecture 3": "Types and Basic Features of Economic Systems"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Financial Accounting": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Introduction to financial accounting ",
+                     "Lecture 2": "The accounting equation and double entry principles",
+                     "Lecture 3": "Accounting concepts"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Introduction to financial accounting ",
+                     "Lecture 2": "The accounting equation and double entry principles",
+                     "Lecture 3": "Accounting concepts"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Cost Accounting": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Introduction to Cost Accounting",
+                     "Lecture 2": "Characteristics of a Good Costing System",
+                     "Lecture 3": "Cost Classification and Types of Cost"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Introduction to Cost Accounting",
+                     "Lecture 2": "Characteristics of a Good Costing System",
+                     "Lecture 3": "Cost Classification and Types of Cost"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               }
+            },
+            "Core Subjects": 
+            {
+               "(CLASS) Core Mathematics": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) English": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Summary",
+                     "Lecture 2": "Comprehension",
+                     "Lecture 3": "Lexis and structure"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Summary",
+                     "Lecture 2": "Comprehension",
+                     "Lecture 3": "Lexis and structure"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Integrated Science": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Measurement",
+                     "Lecture 2": "Matter",
+                     "Lecture 3": "Cycles"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Measurement",
+                     "Lecture 2": "Matter",
+                     "Lecture 3": "Cycles"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               }
+            }
+         },
+         "General Arts": 
+         {
+            "Elective Subjects": 
+            {
+               "(CLASS) Economics": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Definition and Scope of Economics",
+                     "Lecture 2": "Factors of Production",
+                     "Lecture 3": "Types and Basic Features of Economic Systems"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Definition and Scope of Economics",
+                     "Lecture 2": "Factors of Production",
+                     "Lecture 3": "Types and Basic Features of Economic Systems"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Government": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Meaning and Scope of Government",
+                     "Lecture 2": "Basic Concepts and Principles of Government",
+                     "Lecture 3": "Constitutions"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Meaning and Scope of Government",
+                     "Lecture 2": "Basic Concepts and Principles of Government",
+                     "Lecture 3": "Constitutions"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Literature In English": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "African Prose",
+                     "Lecture 2": "Non-African Prose",
+                     "Lecture 3": "African Drama"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "African Prose",
+                     "Lecture 2": "Non-African Prose",
+                     "Lecture 3": "African Drama"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               }
+            },
+            "Core Subjects": 
+            {
+               "(CLASS) Core Mathematics": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Trigonometry",
+                     "Lecture 2": "Deferential Calculus",
+                     "Lecture 3": "Integral Calculus"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) English": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Summary",
+                     "Lecture 2": "Comprehension",
+                     "Lecture 3": "Lexis and structure"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Summary",
+                     "Lecture 2": "Comprehension",
+                     "Lecture 3": "Lexis and structure"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               },
+               "(CLASS) Integrated Science": 
+               {
+                  "Live Lecture": 
+                  {
+                     "Lecture 1": "Measurement",
+                     "Lecture 2": "Matter",
+                     "Lecture 3": "Cycles"
+                  },
+                  "Recorded Lecture": 
+                  {
+                     "Lecture 1": "Measurement",
+                     "Lecture 2": "Matter",
+                     "Lecture 3": "Cycles"
+                  },
+                  "Past Questions": 
+                  {
+                     "2006": 
+                     {
+                        "2006": true
+                     },
+                     "2007": 
+                     {
+                        "2007": true
+                     },
+                     "2008": 
+                     {
+                        "2008": true
+                     },
+                     "2009": 
+                     {
+                        "2009": true
+                     },
+                     "2010": 
+                     {
+                        "2010": true
+                     },
+                     "2011": 
+                     {
+                        "2011": true
+                     },
+                     "2012": 
+                     {
+                        "2012": true
+                     },
+                     "2013": 
+                     {
+                        "2013": true
+                     },
+                     "2014": 
+                     {
+                        "2014": true
+                     },
+                     "2015": 
+                     {
+                        "2015": true
+                     },
+                     "2016": 
+                     {
+                        "2016": true
+                     }
+                  }
+               }
+            }
+         }
+      }
+   },
+   "Basic Level": 
+   {
+      "Corpus Christ": 
+      {
+         "(CLASS) English": 
+         {
+            "Live Lecture": 
+            {
+               "Lexis and Structure": "Lexis and Structure",
+               "Literature": "Literature",
+               "Essay Writing": "Essay Writing"
+            },
+            "Recorded Lecture": 
+            {
+               "Lexis and Structure": "Lexis and Structure",
+               "Literature": "Literature",
+               "Essay Writing": "Essay Writing"
+            },
+            "Past Questions": 
+            {
+               "2006": 
+               {
+                  "2006": true
+               },
+               "2007": 
+               {
+                  "2007": true
+               },
+               "2008": 
+               {
+                  "2008": true
+               },
+               "2009": 
+               {
+                  "2009": true
+               },
+               "2010": 
+               {
+                  "2010": true
+               },
+               "2011": 
+               {
+                  "2011": true
+               },
+               "2012": 
+               {
+                  "2012": true
+               },
+               "2013": 
+               {
+                  "2013": true
+               },
+               "2014": 
+               {
+                  "2014": true
+               },
+               "2015": 
+               {
+                  "2015": true
+               },
+               "2016": 
+               {
+                  "2016": true
+               }
+            }
+         },
+         "(CLASS) Mathematics": 
+         {
+            "Live Lecture": 
+            {
+               "Indies": "Indies",
+               "Mensuration": "Mensuration",
+               "Quadratic Equations": "Quadratic Equations"
+            },
+            "Recorded Lecture": 
+            {
+               "Indies": "Indies",
+               "Mensuration": "Mensuration",
+               "Quadratic Equations": "Quadratic Equations"
+            },
+            "Past Questions": 
+            {
+               "2006": 
+               {
+                  "2006": true
+               },
+               "2007": 
+               {
+                  "2007": true
+               },
+               "2008": 
+               {
+                  "2008": true
+               },
+               "2009": 
+               {
+                  "2009": true
+               },
+               "2010": 
+               {
+                  "2010": true
+               },
+               "2011": 
+               {
+                  "2011": true
+               },
+               "2012": 
+               {
+                  "2012": true
+               },
+               "2013": 
+               {
+                  "2013": true
+               },
+               "2014": 
+               {
+                  "2014": true
+               },
+               "2015": 
+               {
+                  "2015": true
+               },
+               "2016": 
+               {
+                  "2016": true
+               }
+            }
+         }
+      },
+      "Creator School": 
+      {
+         "(CLASS) English": 
+         {
+            "Live Lecture": 
+            {
+               "Lexis and Structure": "Lexis and Structure",
+               "Literature": "Literature",
+               "Essay Writing": "Essay Writing"
+            },
+            "Recorded Lecture": 
+            {
+               "Lexis and Structure": "Lexis and Structure",
+               "Literature": "Literature",
+               "Essay Writing": "Essay Writing"
+            },
+            "Past Questions": 
+            {
+               "2006": 
+               {
+                  "2006": true
+               },
+               "2007": 
+               {
+                  "2007": true
+               },
+               "2008": 
+               {
+                  "2008": true
+               },
+               "2009": 
+               {
+                  "2009": true
+               },
+               "2010": 
+               {
+                  "2010": true
+               },
+               "2011": 
+               {
+                  "2011": true
+               },
+               "2012": 
+               {
+                  "2012": true
+               },
+               "2013": 
+               {
+                  "2013": true
+               },
+               "2014": 
+               {
+                  "2014": true
+               },
+               "2015": 
+               {
+                  "2015": true
+               },
+               "2016": 
+               {
+                  "2016": true
+               }
+            }
+         },
+         "(CLASS) Mathematics": 
+         {
+            "Live Lecture": 
+            {
+               "Indies": "Indies",
+               "Mensuration": "Mensuration",
+               "Quadratic Equations": "Quadratic Equations"
+            },
+            "Recorded Lecture": 
+            {
+               "Indies": "Indies",
+               "Mensuration": "Mensuration",
+               "Quadratic Equations": "Quadratic Equations"
+            },
+            "Past Questions": 
+            {
+               "2006": 
+               {
+                  "2006": true
+               },
+               "2007": 
+               {
+                  "2007": true
+               },
+               "2008": 
+               {
+                  "2008": true
+               },
+               "2009": 
+               {
+                  "2009": true
+               },
+               "2010": 
+               {
+                  "2010": true
+               },
+               "2011": 
+               {
+                  "2011": true
+               },
+               "2012": 
+               {
+                  "2012": true
+               },
+               "2013": 
+               {
+                  "2013": true
+               },
+               "2014": 
+               {
+                  "2014": true
+               },
+               "2015": 
+               {
+                  "2015": true
+               },
+               "2016": 
+               {
+                  "2016": true
+               }
+            }
+         }
+      }
+   },
+   "Vocational": 
+   {
+      "(CLASS) Fresh Yogurt Production": 
+      {
+         "Live Lecture": 
+         {
+            "Lecture 1": "Lecture 1",
+            "Lecture 2": "Lecture 1",
+            "Lecture 3": "Lecture 1"
+         },
+         "Recorded Lecture": 
+         {
+            "Lecture 1": "Lecture 1",
+            "Lecture 2": "Lecture 1",
+            "Lecture 3": "Lecture 1"
+         }
+      }
+   }
+}

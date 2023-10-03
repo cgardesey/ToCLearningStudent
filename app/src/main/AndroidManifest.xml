@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature android:name="android.hardware.camera2" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".MyApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCP0eJ7Au96-Xb43A-LlZGGqHlfqunaNg0" />
+
+        <provider
+            android:name=".other.GenericFileProvider"
+            android:authorities="${applicationId}.my.package.name.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <activity android:name=".activity.ChatActivity" />
+        <activity android:name=".activity.TopicActivity" />
+        <activity android:name=".activity.LevelActivity" />
+        <activity android:name=".activity.MessagesActivity" />
+
+        <service android:name=".service.FcmMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".activity.PasswordActivity" />
+        <activity android:name=".activity.UpdatePasswordActivity" />
+        <activity android:name=".activity.EmailVerificationActivity" />
+        <activity android:name=".activity.LoginActivity" />
+        <activity android:name=".activity.PictureActivity" />
+        <activity android:name=".activity.SubjectActivity" />
+        <activity android:name=".activity.QuizActivity" />
+        <activity
+            android:name=".activity.AccountActivity"
+            android:label="Account" />
+        <activity
+            android:name=".activity.ListActivity"
+            android:launchMode="standard" />
+        <activity
+            android:name=".activity.VideoActivity"
+            android:configChanges="orientation|keyboardHidden|screenLayout|screenSize"
+            android:theme="@style/NoActionBar" />
+        <activity android:name=".activity.AboutUsActivity" />
+        <activity android:name=".activity.CertificationsActivity" />
+        <activity android:name=".activity.FaqsActivity" />
+        <activity android:name=".activity.OldSubscriptionActivity" />
+        <activity
+            android:name="com.gun0912.tedpicker.ImagePickerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/TedPickerTheme" />
+        <activity
+            android:name=".activity.SplashScreenActivity"
+            android:theme="@style/NoActionBar">
+
+        </activity>
+        <activity android:name=".activity.SuscriptionActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

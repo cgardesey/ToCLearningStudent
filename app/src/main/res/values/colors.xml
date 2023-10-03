@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF7900</color>
+    <color name="colorPrimary2">#ffb300</color>
+    <color name="colorPrimaryDark">#AD4A00</color>
+    <color name="colorAccent">#2E7D32</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <!-- the activated state color for a forecast list item -->
+    <color name="activated">#80E0E0E0</color>
+
+    <color name="list_item_selected_state">#E3F2FD</color>
+    <color name="list_item_normal_state">#80E0E0E0</color>
+
+    <color name="gray">#333</color>
+
+
+    <!--Material Greens-->
+    <!--In between colors were created with this tool:-->
+    <!-- http://meyerweb.com/eric/tools/color-blend/#339999::1:hex -->
+    <color name="orange00">#FF7900</color>
+    <color name="orange01">#FF8110</color>
+    <color name="orange02">#FF8920</color>
+    <color name="orange03">#FF922F</color>
+    <color name="orange04">#FF9A3F</color>
+    <color name="orange05">#FFA24F</color>
+    <color name="orange06">#FFAA5F</color>
+    <color name="orange07">#FFB36E</color>
+    <color name="orange08">#FFBB7E</color>
+    <color name="orange09">#FFC38E</color>
+</resources>

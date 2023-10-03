@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/add"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/subscription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_edge_button"
+        android:text="1. MTN Mobile Money"
+        android:layout_margin="8dp"
+        android:textColor="@color/white" />
+
+</LinearLayout>
