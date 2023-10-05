@@ -4,8 +4,6 @@ ToCLearningStudent is an Android application that allows students to enroll into
 
 ## Features
 
-## Features
-
 - **Course Enrollment:** Students can browse available courses and enroll in their preferred ones.
 - **Recorded Lessons:** Access a vast library of recorded lessons to review and reinforce learning.
 - **Solved Past Questions:** View solved past questions to practice and prepare for exams.
